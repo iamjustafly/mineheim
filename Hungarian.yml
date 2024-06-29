@@ -44,6 +44,8 @@ stick: "Bot"
 oak_planks: "Tölgy deszka"
 leather: "Bőr"
 white_wool: "Fehér gyapjú"
+coal: "Szén"
+flint_and_steel: "Kovakő és Acél"
 
 language: "Nyelv"
 available_languages: "Elérhető nyelvek"

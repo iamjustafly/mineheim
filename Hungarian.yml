@@ -1,10 +1,14 @@
 day: "Nap"
 level: "Szint"
 coins: "Érmék"
+
 usage: "Használat"
+
 basic: "Alapok"
 tools: "Eszközök"
+
 player-name: "Játékos név"
+
 now-allowed: "Mostantól csatlakozhat"
 not-allowed: "Mostantól nem csatlakozhat"
 not-on-allowed: "Nincs az engedélyezettek listáján"

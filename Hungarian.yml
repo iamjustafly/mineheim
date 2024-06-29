@@ -4,9 +4,6 @@ coins: "Érmék"
 
 usage: "Használat"
 
-basic: "Alapok"
-tools: "Eszközök"
-
 player-name: "Játékos név"
 
 now-allowed: "Mostantól csatlakozhat"
@@ -33,12 +30,15 @@ available_from: "Elérhető innentől:"
 
 crafting-table: "Barkács asztal"
 
-bed: "Ágy"
-wooden_axe: "Fafejsze"
+basic: "Alapok"
+tools: "Eszközök"
 
 left_click_to_open: "Bal klikkelj, hogy megnyitsd"
 right_click_to_craft: "Jobb klikkelj, hogy lekraftold"
 available_from_level: "Elérhető innen: Szint"
+
+bed: "Ágy"
+wooden_axe: "Fafejsze"
 
 stick: "Bot"
 oak_planks: "Tölgy deszka"

@@ -35,7 +35,7 @@ tools: "Tools"
 
 left_click_to_open: "Left click to open"
 right_click_to_craft: "Right click to craft"
-Available_from_level: "Available from: Level"
+available_from_level: "Available from: Level"
 
 bed: "Bed"
 wooden_axe: "Wooden Axe"

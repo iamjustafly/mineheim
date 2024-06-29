@@ -12,7 +12,7 @@ not-on-allowed: "is not on the allowed list"
 
 plugin-reloaded: "The plugin was successfully reloaded"
 
-revoked-permission: "Your permission to pay on the server got revoked"
+revoked-permission: "Your permission to play on the server got revoked"
 
 protected-area: "This area is protected"
 

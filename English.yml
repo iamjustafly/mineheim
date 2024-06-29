@@ -28,4 +28,5 @@ stick: "Stick"
 oak_planks: "Oak planks"
 leather: "Leather"
 white_wool: "White wool"
-
+language: "language"
+available_languages: "Available languages"

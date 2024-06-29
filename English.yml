@@ -43,6 +43,8 @@ stick: "Stick"
 oak_planks: "Oak planks"
 leather: "Leather"
 white_wool: "White wool"
+coal: "Coal"
+flint_and_steel: "Flint & Steel"
 
 language: "Language"
 available_languages: "Available languages"

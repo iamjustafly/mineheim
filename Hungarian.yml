@@ -38,13 +38,12 @@ wooden_axe: "Fafejsze"
 
 left_click_to_open: "Bal klikkelj, hogy megnyitsd"
 right_click_to_craft: "Jobb klikkelj, hogy lekraftold"
+available_from_level: "Elérhető innen: Szint"
 
 stick: "Bot"
 oak_planks: "Tölgy deszka"
 leather: "Bőr"
 white_wool: "Fehér gyapjú"
-
-available_from_level: "Elérhető innen: Szint"
 
 language: "Nyelv"
 available_languages: "Elérhető nyelvek"

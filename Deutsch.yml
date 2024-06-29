@@ -1,0 +1,54 @@
+day: "Tag"
+level: "Ebene"
+coins: "Münzen"
+
+usage: "Verwendung"
+
+player-name: "Spielername"
+
+now-allowed: "darf nun beitreten"
+not-allowed: "darf jetzt nicht beitreten"
+not-on-allowed: "steht nicht auf der Erlaubtliste"
+
+plugin-reloaded: "Das Plugin wurde erfolgreich neu geladen"
+
+revoked-permission: "Ihre Erlaubnis, auf dem Server zu spielen, wurde widerrufen"
+
+protected-area: "Dieser Bereich ist geschützt"
+
+shouts: "geschrei"
+says: "sagt"
+
+levelup: "AUFLEVELN"
+reached-level: "Du hast das Level erreicht"
+
+uuid_dont_match: "Ihre UUID stimmt nicht mit der überein, mit der Sie sich zuerst angemeldet haben"
+contact_owner: "Bitten Sie den Eigentümer um Hilfe"
+
+cant_go_trough_yet: "Kann noch nicht durchkommen"
+available_from: "Verfügbar ab"
+
+crafting-table: "Basteltisch"
+
+basic: "Basisch"
+tools: "Werkzeuge"
+
+left_click_to_open: "Klicken Sie zum Öffnen mit der linken Maustaste"
+right_click_to_craft: "Klicken Sie mit der rechten Maustaste, um zu basteln"
+available_from_level: "Verfügbar ab: Level"
+
+bed: "Bett"
+wooden_axe: "Holzaxt"
+torch: "Fackel"
+
+stick: "Stock"
+oak_planks: "Eichenbretter"
+leather: "Leder"
+white_wool: "Weiße Wolle"
+coal: "Kohle"
+flint_and_steel: "Feuerstein und Stahl"
+
+language: "Sprache"
+available_languages: "Verfügbare Sprachen"
+language_not_supported: "Diese Sprache wird von diesem Plugin nicht unterstützt"
+language_successfully_set: "Ihre Sprache wurde erfolgreich eingestellt"

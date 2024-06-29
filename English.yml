@@ -28,13 +28,14 @@ contact_owner: "Contact the Owner for help"
 cant_go_trough_yet: "Can't go trough yet"
 available_from: "Available from"
 
-left_click_to_open: "Left click to open"
-right_click_to_craft: "Right click to craft"
-
 crafting-table: "Crafting table"
 
 basic: "Basic"
 tools: "Tools"
+
+left_click_to_open: "Left click to open"
+right_click_to_craft: "Right click to craft"
+Available_from_level: "Available from: Level"
 
 bed: "Bed"
 wooden_axe: "Wooden Axe"
@@ -50,5 +51,3 @@ language: "Language"
 available_languages: "Available languages"
 language_not_supported: "This language is not supported by this plugin"
 language_successfully_set: "Your language is successfully set to"
-
-Available_from_level: "Available from: Level"

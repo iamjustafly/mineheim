@@ -9,6 +9,7 @@ player-name: "Játékos név"
 now-allowed: "Mostantól csatlakozhat"
 not-allowed: "Mostantól nem csatlakozhat"
 not-on-allowed: "Nincs az engedélyezettek listáján"
+allowed_is_off: "Nem használhatod ezt a parancsot, mert az engedélyezettek listája jelenleg ki van kapcsolva a szerveren"
 
 plugin-reloaded: "A plugin sikeresen újratöltve"
 

@@ -12,7 +12,7 @@ not-on-allowed: "steht nicht auf der Erlaubtliste"
 allowed_is_off: "Sie können diesen Befehl nicht verwenden, da die Zulassungsliste auf diesem Server derzeit deaktiviert ist"
 
 kick_uuid_reset: "Ihre UUID wurde zurückgesetzt"
-players_uuid_reset: "Die UUID von wurde zurückgesetzt"
+players_uuid_reset: "die UUID von wurde zurückgesetzt"
 no_uuid_at_reset: "hat keine UUID mit seinem Konto verknüpft"
 
 

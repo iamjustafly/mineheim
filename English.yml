@@ -11,6 +11,10 @@ not-allowed: "is now not allowed to join"
 not-on-allowed: "is not on the allowed list"
 allowed_is_off: "You can't use this command because the Allow List is currently turned off on this server"
 
+kick_uuid_reset: "Your UUID have been reset"
+players_uuid_reset: "'s UUID have been reset"
+no_uuid_at_reset: "doesn't have a UUID connected to his account"
+
 plugin-reloaded: "The plugin was successfully reloaded"
 
 revoked-permission: "Your permission to play on the server got revoked"

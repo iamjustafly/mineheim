@@ -9,6 +9,7 @@ player-name: "Spielername"
 now-allowed: "darf nun beitreten"
 not-allowed: "darf jetzt nicht beitreten"
 not-on-allowed: "steht nicht auf der Erlaubtliste"
+is-on-allowed: "steht bereits auf der Erlaubtliste"
 allowed_is_off: "Sie können diesen Befehl nicht verwenden, da die Zulassungsliste auf diesem Server derzeit deaktiviert ist"
 
 kick_uuid_reset: "Ihre UUID wurde zurückgesetzt"

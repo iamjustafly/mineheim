@@ -9,6 +9,7 @@ player-name: "Játékos név"
 now-allowed: "Mostantól csatlakozhat"
 not-allowed: "Mostantól nem csatlakozhat"
 not-on-allowed: "Nincs az engedélyezettek listáján"
+is-on-allowed: "Már az engedélyezettek listáján van"
 allowed_is_off: "Nem használhatod ezt a parancsot, mert az engedélyezettek listája jelenleg ki van kapcsolva a szerveren"
 
 kick_uuid_reset: "Az UUID-d visszaállításra került"

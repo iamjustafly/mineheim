@@ -39,6 +39,9 @@ crafting-table: "Barkácsasztal"
 
 basic: "Alapok"
 tools: "Eszközök"
+combat: "Harc"
+others: "Egyebek"
+building: "Építkezés"
 
 left_click_to_open: "Bal klikkelj, hogy megnyitsd"
 right_click_to_craft: "Jobb klikkelj, hogy lekraftold"

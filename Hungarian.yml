@@ -11,9 +11,10 @@ not-allowed: "Mostantól nem csatlakozhat"
 not-on-allowed: "Nincs az engedélyezettek listáján"
 allowed_is_off: "Nem használhatod ezt a parancsot, mert az engedélyezettek listája jelenleg ki van kapcsolva a szerveren"
 
-kick_uuid_reset: ""
-players_uuid_reset: ""
-no-uuid-at-reset: ""
+kick_uuid_reset: "Az UUID-d visszaállításra került"
+players_uuid_reset: "-nak/nek az UUID-je visszaállításra került"
+no_uuid_at_reset: "-nak/nek nincs UUID hozzákötve a fiókjához"
+
 
 plugin-reloaded: "A plugin sikeresen újratöltve"
 

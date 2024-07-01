@@ -9,6 +9,7 @@ player-name: "Player name"
 now-allowed: "is now allowed to join"
 not-allowed: "is now not allowed to join"
 not-on-allowed: "is not on the allowed list"
+is-on-allowed: "is already on the allowed list"
 allowed_is_off: "You can't use this command because the Allow List is currently turned off on this server"
 
 kick_uuid_reset: "Your UUID have been reset"

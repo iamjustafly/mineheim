@@ -38,6 +38,9 @@ crafting-table: "Crafting table"
 
 basic: "Basic"
 tools: "Tools"
+combat: "Combat"
+others: "Others"
+building: "Building"
 
 left_click_to_open: "Left click to open"
 right_click_to_craft: "Right click to craft"

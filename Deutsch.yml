@@ -39,6 +39,9 @@ crafting-table: "Basteltisch"
 
 basic: "Basisch"
 tools: "Werkzeuge"
+combat: "Kampf"
+others: "Andere"
+building: "Konstruktion"
 
 left_click_to_open: "Klicken Sie zum Öffnen mit der linken Maustaste"
 right_click_to_craft: "Klicken Sie mit der rechten Maustaste, um zu basteln"
